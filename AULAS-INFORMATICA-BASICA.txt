@@ -1,0 +1,116 @@
+[TODO CONTEUDO
+#Indicador
+Desenvolve estruturas de programação em blocos, de acordo com a construção a 
+necessidade da aplicação.
+
+Lógica de Programação: conceitos.
+Programação em blocos: Interface da plataforma Scratch, blocos, compartilhamento, 
+movimentos, aparência, sons, caneta, variáveis, eventos, controles, sensores e operadores.
+
+[CONTEUDO AULA 01
+Lógica de Programação: conceitos.
+Criar 
+
+[CONTEUDO AULA 02
+Programação em blocos: Interface da plataforma Scratch, blocos, compartilhamento, 
+movimentos, aparência, sons, caneta, variáveis, eventos, controles, sensores e operadores.
+
+[CONTEUDO AULA 03
+Programação em blocos: Interface da plataforma Scratch, blocos, compartilhamento, 
+movimentos, aparência, sons, caneta, variáveis, eventos, controles, sensores e operadores.
+
+[CONTEUDOS ALURA SCRATCH 
+https://www.alura.com.br/artigos/capturando-eventos-no-scratch
+
+https://www.alura.com.br/artigos/criando-um-dialogo-com-scratch
+
+https://www.alura.com.br/artigos/movendo-um-personagem-no-scratch
+
+https://www.alura.com.br/artigos/clonando-personagens-no-scratch
+
+https://www.alura.com.br/artigos/criando-a-gravidade-no-scratch
+
+[CONTEUDO AULA 01 - DADOS
+
+Slide 01
+
+Ementa do Indicador 
+Utilizar funções básicas do sistema operacional manipulando arquivos do pacote Office com
+enfoque na otimização das rotinas pessoais e profissionais.
+
+Slide 02
+Logica de Programacao
+
+#ABRIR O SLIDE DE NOME "SLIDE 01 - LOGICA DE PROGRAMACAO.pptx"
+#passo 01
+Copiar slide de logica de programaco do numero 2 ate 15
+
+#passo 02
+Copiar slide de logica de programaco do numero 21 ate 23
+
+#passo 03
+Copiar slide de logica de programaco do numero 27 ate 38
+
+#passo 04
+Copiar slide de logica de programaco do numero 42 ate 44 e copiar o slide 52 e 53
+
+#passo 05
+Copiar slide de logica de programaco do numero 54 ate 60
+
+#Inicio ao Sratch
+Slide 02
+Criar conta de usuario no scratch 
+#Passos 
+Abrir o arquivo de nome "SCRATCH NA EDUCACAO BASICA.pdf"
+
+#passo 01
+Copiar slide de scratch da pagina numero 23 ate final
+
+[Conteudos Youtube Scratch - LAR TROMBUDO CENTRAL 
+Aula 01 Scratch
+Do minuto 2:30 ate 7:18
+
+https://youtu.be/1eT6OpRpXRE?t=151
+
+todos videos - com jogo da nave espacial
+https://youtu.be/1eT6OpRpXRE?t=151
+
+2 videoaula sobre Scratch 
+https://www.youtube.com/watch?v=HwqopjxdP7E&list=PLucm8g_ezqNqTtmGghrC2fk9rqM2lkn9O
+
+
+BLOCOS CONDICIONAIS
+https://www.youtube.com/watch?v=mlPC8MJuKM4&list=PLucm8g_ezqNqTtmGghrC2fk9rqM2lkn9O&index=8
+
+BLOCOS DE COMANDO REPITA 
+https://www.youtube.com/watch?v=cPnPFy_bF1U&list=PLucm8g_ezqNqTtmGghrC2fk9rqM2lkn9O&index=9
+
+BLOCOS DE COMANDO REPITA ATE QUE E SEMPRE
+https://www.youtube.com/watch?v=MR5wlkO1A7w&list=PLucm8g_ezqNqTtmGghrC2fk9rqM2lkn9O&index=10
+
+[Conteudos Youtube Scratch - LAR TAIO 
+
+[ALGORITMO CARTEIRA MOTORISTA
+
+PASSO 01 - PERGUNTAR A IDADE DA PESSOA
+
+PASSO 02 - 
+SE A IDADE DA PESSOA FOR MAIOR OU IGUAL A 18 ANOS, 
+	MOSTRE A MENSAGEM :"JA PODE TIRAR A CARTEIRA DE MOTORISTA!MAIOR DE IDADE!"
+SENAO, 
+	MOSTRE A MENSAGEM:"NAO PODE TIRAR A CARTEIRA DE MOTORISTA!MENOR DE IDADE!"
+
+
+if(idade >= 18) {
+	mostraMensagem();
+} else {
+	mostraMensagem();
+}
+
+
+#link video jogo scratch:
+https://www.youtube.com/watch?v=SLZ3jjSZ3Ag
+
+
+
+
